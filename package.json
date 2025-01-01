@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "keywords": [],
-  "author": "",
+  "author": "Ramprasath M K",
   "license": "ISC",
   "description": "This is the simple Micro-blogging App",
   "dependencies": {
