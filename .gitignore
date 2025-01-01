@@ -1,10 +1,18 @@
-
+# Ignore IDE/editor files
+.vs
 .git
-.github
 .idea
 .vscode
 
+# Ignore Node dependencies
 node_modules
-prod
+
+# Ignore Node out directory
 dist
 build
+
+# Ignore test coverages
+coverage
+
+# Ignore sensitive files
+.env
