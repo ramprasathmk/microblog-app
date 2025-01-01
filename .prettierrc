@@ -2,5 +2,7 @@
   "tabWidth": 2,
   "useTabs": false,
   "endOfLine": "crlf",
-  "embeddedLanguageFormatting": "auto"
+  "embeddedLanguageFormatting": "auto",
+  "semi": false,
+  "singleQuote": true
 }
