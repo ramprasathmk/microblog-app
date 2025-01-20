@@ -4,8 +4,8 @@
 <div align="left">
   <img 
     src="https://bloggingguide.com/wp-content/uploads/2022/08/update-your-blog-posts.png"
-    height="1260px" 
-    width="2240px" 
+    height="2240px" 
+    width="1260px" 
   />
 </div>
 
