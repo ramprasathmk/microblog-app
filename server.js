@@ -5,7 +5,7 @@ const Post = require('./models/Post')
 const path = require('path')
 const app = express()
 require('dotenv').config()
-const PORT = process.env.PORT || 3333
+const PORT = process.env.PORT
 
 // Connect to MongoDB
 mongoose
